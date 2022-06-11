@@ -1,6 +1,9 @@
-<img src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e478ssu3kzcjlrs08lkem0ldzgofri5yo97qhjh4iuu&rid=giphy.gif&ct=g" align="left" height="300" width="600" display="block"/>  
+<div align="center">
+<img src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e478ssu3kzcjlrs08lkem0ldzgofri5yo97qhjh4iuu&rid=giphy.gif&ct=g" align="center" height="
+" width="600" />
+</div>  
   
-<br/>
+
 ### <div align="center">👋 Welcome on my GitHub! </div>  
   
 
@@ -59,4 +62,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickPick77&hide_border=true&layout=compact" align="center" /></div>
 <br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
