@@ -1,4 +1,5 @@
-<img src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e478ssu3kzcjlrs08lkem0ldzgofri5yo97qhjh4iuu&rid=giphy.gif&ct=g" align="left" style="width: 600" />  
+<img src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e478ssu3kzcjlrs08lkem0ldzgofri5yo97qhjh4iuu&rid=giphy.gif&ct=g" align="left" style="width: 600" /> 
+<br/>
   
 
 ### <div align="center">👋 Welcome on my GitHub! </div>  
